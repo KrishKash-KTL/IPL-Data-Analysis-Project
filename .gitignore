@@ -1,0 +1,6 @@
+# Ignore local environment files or cache
+__pycache__/
+.ipynb_checkpoints/
+
+*.xlsx
+*.csv
